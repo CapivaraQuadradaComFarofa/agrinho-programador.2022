@@ -39,17 +39,17 @@ fieldset#sexo{
 }
 
 fieldset#usuario {
-    background: url("../_imagens/img_icone-contato.png") no-repeat 95% 95%;
+    background: url("img_icone-contato.png") no-repeat 95% 95%;
 }
 fieldset#endereco {
-    background: url("../_imagens/img_icone-endereco.png") no-repeat 95% 95%;
+    background: url("img_icone-endereco.png") no-repeat 95% 95%;
 }
 fieldset#mensagem {
-    background: url("../_imagens/img_icone-mensagem.png") no-repeat 95% 95%;
+    background: url("img_icone-mensagem.png") no-repeat 95% 95%;
 }
 fieldset#mensagem textarea{
     margin-inline: 50px;
 }
 fieldset#pedido {
-    background: url("../_imagens/img_icone-pagamento.png") no-repeat 95% 95%;
+    background: url("img_icone-pagamento.png") no-repeat 95% 95%;
 }
