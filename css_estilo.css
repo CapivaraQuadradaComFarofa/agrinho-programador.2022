@@ -25,7 +25,7 @@ header#cabecalho{
     height: 150px;
     border-bottom: 1px solid black;
     margin-top: -20px;
-    background: url("../_imagens/img_glass-logo-peq.jpg") no-repeat 0px 90px;
+    background: url("img_glass-logo-peq.jpg") no-repeat 0px 90px;
 }
 
 #cabecalho h1{
